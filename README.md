@@ -1,6 +1,6 @@
 # xmr-stak-cpu-nvidia-windows
 
-### Cryptonight mining software on Windows
+### Cryptonight mining software on Windows v2.1
 #### Without 2% donation
 
 #### Make a donation to me here:
