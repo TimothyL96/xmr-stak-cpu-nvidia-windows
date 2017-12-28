@@ -10,7 +10,7 @@
 ##### Bitcoin `1wuyXF3cUazUA4hFLg27QyEPYrRXC5ueM`
 ##### Ethereum `0xc5fedEc444e57bAEB2E32AA6ec69A30be9A48922`
 
+___
 
-
-##### Changelog:
+#### Changelog:
 1. Run as administrator would not create two windows (command prompt).
